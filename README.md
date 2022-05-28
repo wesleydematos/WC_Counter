@@ -1,2 +1,2 @@
 # WC_Counter
- Contador de dias para a copa do mundo.
+ Contador de dias restantes para o início da copa do mundo.
